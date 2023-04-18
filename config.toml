@@ -1,0 +1,12 @@
+languageCode = 'en-us'
+title = 'The Constellation Project'
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
+[params]
+repoURL = 'https://github.com/michaelpolinski/constellation-website'
+description = 'Constellation: unifying software and hardware for performant and frictionless heterogeneous parallelism'
+colorDark = '#121212'
+colorLight = '#f7f7f7'
+colorDarkAccent = '#FFB74D'
+colorLightAccent = '#E65100'
+images = ['android-chrome-512x512.png']
