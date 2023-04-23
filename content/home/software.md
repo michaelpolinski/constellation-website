@@ -4,4 +4,6 @@ draft: false
 weight: 40
 ---
 
-- [NOELLE](https://github.com/arcana-lab/noelle)
+- [MaPLe Compiler](https://github.com/MPLLang/mpl)
+- [Nautilus Kernel](https://github.com/PeterDinda/nautilus)
+- [NOELLE Framework](https://github.com/arcana-lab/noelle)

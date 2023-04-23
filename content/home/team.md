@@ -10,8 +10,7 @@ weight: 20
 - [Umut Acar](https://www.umut-acar.org/) (Carnegie Mellon (PI))
 - [Simone Campanoni](https://users.cs.northwestern.edu/~simonec/) (Northwestern)
 - [Nikos Hardavellas](https://users.cs.northwestern.edu/~hardav/) (Northwestern)
-- [Guy Blelloch](https://www.cs.cmu.edu/~guyb/) (Carnegie Mellon
-University)
+- [Guy Blelloch](https://www.cs.cmu.edu/~guyb/) (Carnegie Mellon)
 - [Mike Rainey]( https://www.andrew.cmu.edu/user/mrainey/) (Carnegie
   Mellon)
 - [Kyle Hale](https://halek.co/) (Illinois Institute of Technology)
