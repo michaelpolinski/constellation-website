@@ -47,6 +47,6 @@ weight: 20
 - [Kevin McAfee](https://www.linkedin.com/in/kevinmcafee/)
 (Northwestern)
 - Sean Rhee (Northwestern)
-- Carson Surmeier (Northwestern)
+- [Carson Surmeier](https://about.surmeier.us) (Northwestern)
 - [Garrett Weil](https://www.linkedin.com/in/garrettweil/)  (Northwestern)
 - [Ruiqi (Jerry) Xu](https://www.linkedin.com/in/jerry-xu-ruiqi/) (Northwestern)
