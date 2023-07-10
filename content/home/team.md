@@ -30,7 +30,7 @@ weight: 20
 - [Brian Tauro](https://www.btauro.com/) (Illinois Institute of Technology)
 - [Nick Wanninger](https://nickw.io/) (Northwestern)
 - [Sam Westrick](https://www.cs.cmu.edu/~swestric/) (Carnegie Mellon)
-- [Michael Wilkins](https://mjwilkins18.wixsite.com/resume)
+- [Michael Wilkins](https://mjwilkins.org)
 (Northwestern)
 
 ### M.S. Students
