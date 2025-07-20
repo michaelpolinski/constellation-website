@@ -36,7 +36,7 @@ weight: 20
 ### M.S. Students
 - [Yankai Jiang](https://lukejyk.github.io/) (Northwestern)
 - [Jiaxiang Li](https://www.linkedin.com/in/jiaxiang-li-254666231/) (Northwestern)
-
+- Qinze Jiang (Northwestern)
 ### Undergrad Students and REU Students
 - [Luke Arnold](https://www.linkedin.com/in/luke-michael-arnold/)
 (Northwestern)
