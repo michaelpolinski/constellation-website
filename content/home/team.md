@@ -19,6 +19,7 @@ weight: 20
 
 - [Enrico Deiana](https://www.deiana.org/) (Northwestern)
 - [Griffin Dube](https://gadube.github.io/) (Northwestern)
+- [Karl Hallsby](https://karl.hallsby.com/) (Northwestern)
 - [Brian Homerding](https://www.linkedin.com/in/brian-homerding)
 (Northwestern)
 - [David Krasowska](https://www.linkedin.com/in/davidkrasowska) (Northwestern)
