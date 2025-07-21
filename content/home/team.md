@@ -22,6 +22,7 @@ weight: 20
 - [Karl Hallsby](https://karl.hallsby.com/) (Northwestern)
 - [Brian Homerding](https://www.linkedin.com/in/brian-homerding)
 (Northwestern)
+- [Peizhi Liu](https://www.linkedin.com/in/peizhiliu) (Northwestern)
 - [David Krasowska](https://www.linkedin.com/in/davidkrasowska) (Northwestern)
 - [Tommy McMichen](https://mcmichen.cc/) (Northwestern)
 - [Kirill Nagaitsev](https://github.com/knagaitsev) (Northwestern)
