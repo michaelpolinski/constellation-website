@@ -14,4 +14,4 @@ the U.S. [Department of Energy](https://energy.gov) Office of Science and the Na
 Nuclear Security Administration, by the U.S. Department of Energy,
 Office of Science, under Contract DE-AC02- 06CH11357.   David
 Krasowska and Kirill Nagaitsev are Department of Energy [Computational Science Graduate
-Fellows](https://www.krellinst.org/csgf/).
+Fellows](https://www.krellinst.org/csgf/).  Peizhi Liu is a National Science Foundation [(NSF) Graduate Research Fellow](https://nsfgrfp.org).
