@@ -22,10 +22,10 @@ weight: 20
 - [Karl Hallsby](https://karl.hallsby.com/) (Northwestern)
 - [Brian Homerding](https://www.linkedin.com/in/brian-homerding)
 (Northwestern)
-- [Peizhi Liu](https://www.linkedin.com/in/peizhiliu) (Northwestern)
-- [David Krasowska](https://www.linkedin.com/in/davidkrasowska) (Northwestern)
+- [Peizhi Liu](https://www.linkedin.com/in/peizhiliu) (Northwestern) [NSF Graduate Fellow]
+- [David Krasowska](https://www.linkedin.com/in/davidkrasowska) (Northwestern) [DOE Computation Science Graduate Fellow]
 - [Tommy McMichen](https://mcmichen.cc/) (Northwestern)
-- [Kirill Nagaitsev](https://github.com/knagaitsev) (Northwestern)
+- [Kirill Nagaitsev](https://github.com/knagaitsev) (Northwestern) [DOE Computation Science Graduate Fellow]
 -
   [Connor Selna](https://www.linkedin.com/in/connor-selna?original_referer=https%3A%2F%2Fwww.google.com%2F) (Northwestern)
 - [Yian Su](https://yiansu.com/) (Northwestern)
@@ -39,16 +39,19 @@ weight: 20
 - [Yankai Jiang](https://lukejyk.github.io/) (Northwestern)
 - [Jiaxiang Li](https://www.linkedin.com/in/jiaxiang-li-254666231/) (Northwestern)
 - Qinze Jiang (Northwestern)
+- [Liam Strand](https://liam-strand.github.io/) (Northwestern)
+- 
 ### Undergrad Students and REU Students
 - [Luke Arnold](https://www.linkedin.com/in/luke-michael-arnold/)
 (Northwestern)
 - [Peizhi Liu](https://www.linkedin.com/in/peizhiliu/) (Northwestern)
-- Nadharm Dhiantravan (Northwestern)
+- Nadharm Dhiantravan (Northwestern) [CRA Outstanding Undergraduate Researcher Honorable Mention]
 - Thomas Filipiuk (Northwestern)
 - [Karl Hallsby](https://karl.hallsby.com/) (Illinois Institute of Techology)
+- [Kevin Hayes](https://www.linkedin.com/in/kevin-hayes-b88842261) (Northwestern University) [CRA Outstanding Undergraduate Researcher Honorable Mention]
 - [Kevin McAfee](https://www.linkedin.com/in/kevinmcafee/)
 (Northwestern)
-- Sean Rhee (Northwestern)
+- Sean Rhee (Northwestern) [CRA Outstanding Undergraduate Researcher Honorable Mention]
 - [Carson Surmeier](https://about.surmeier.us) (Northwestern)
-- [Garrett Weil](https://www.linkedin.com/in/garrettweil/)  (Northwestern)
+- [Garrett Weil](https://www.linkedin.com/in/garrettweil/)  (Northwestern) [CRA Outstanding Undergraduate Researcher Honorable Mention]
 - [Ruiqi (Jerry) Xu](https://www.linkedin.com/in/jerry-xu-ruiqi/) (Northwestern)
