@@ -39,7 +39,7 @@ weight: 20
 - [Jiaxiang Li](https://www.linkedin.com/in/jiaxiang-li-254666231/) (Northwestern)
 - Qinze Jiang (Northwestern)
 - [Liam Strand](https://liam-strand.github.io/) (Northwestern)
-- 
+  
 ### Undergrad Students and REU Students
 - [Luke Arnold](https://www.linkedin.com/in/luke-michael-arnold/)
 (Northwestern)
