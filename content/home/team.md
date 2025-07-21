@@ -13,7 +13,7 @@ weight: 20
 - [Guy Blelloch](https://www.cs.cmu.edu/~guyb/) (Carnegie Mellon)
 - [Mike Rainey]( https://www.andrew.cmu.edu/user/mrainey/) (Carnegie
   Mellon)
-- [Kyle Hale](https://halek.co/) (Illinois Institute of Technology)
+- [Kyle Hale](https://halek.co/) (Oregon State University / IIT)
 
 ### Ph.D. Students and Postdocs
 
