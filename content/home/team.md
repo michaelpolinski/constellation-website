@@ -26,7 +26,7 @@ weight: 20
 - [David Krasowska](https://www.linkedin.com/in/davidkrasowska) (Northwestern) [DOE Computation Science Graduate Fellow]
 - [Tommy McMichen](https://mcmichen.cc/) (Northwestern)
 - [Kirill Nagaitsev](https://github.com/knagaitsev) (Northwestern) [DOE Computation Science Graduate Fellow]
-  [Connor Selna](https://www.linkedin.com/in/connor-selna?original_referer=https%3A%2F%2Fwww.google.com%2F) (Northwestern)
+- [Connor Selna](https://www.linkedin.com/in/connor-selna?original_referer=https%3A%2F%2Fwww.google.com%2F) (Northwestern)
 - [Yian Su](https://yiansu.com/) (Northwestern)
 - [Brian Tauro](https://www.btauro.com/) (Illinois Institute of Technology)
 - [Nick Wanninger](https://nickw.io/) (Northwestern)
