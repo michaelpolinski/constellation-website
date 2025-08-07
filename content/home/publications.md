@@ -4,6 +4,7 @@ draft: false
 weight: 30
 ---
 
+- P. Liu, S. Rhee, M. Wilkins, P. Dinda, Parameterized Algorithms and Parameter Selection for Fast GPU-GPU Collective Communication, Proceedings of the 33rd IEEE International Symposium on Modeling, Analysis, and Simulation of Computer and Telecommunications Systems (MASCOTS 2025), October, 2025.
 - Q. Jiang (and K. Hallsby), VIR-V: A RISC-V RoCC Accelerator for VCODE Computing, Masters Thesis, Department of Computer Science, Northwestern Univeristy, May, 2025.  Available as Technical Report NU-CS-2025-12.
 - J. Giordani, Z. Xu, E. Colby, A. Ning, B. Godala, I. Chaturvedi, S. Zhu, Y. Chon, G. Chan, Z. Tan, G. Collier, J. Halverson, E. Deiana, J. Liang, F. Sossai, Y. Su, A .Patel, B. Pham, N. Greiner, S. Campanoni, D. August, Revisiting Computation for Research: Practices and Trends, Proceedings of the International Conference for High Performance Computing, Networking, Storage, and Analysis (Supercomputing) (SC 2024), November, 2024.
 - Z. Xu, Y. Chon, Y. Su, Z. Tan, S. Apostolakis, S. Campanoni, D. August, PROMPT: A Fast, Precise, and Versatile Memory Profiler with Tailoring, Proceedings of the ACM Conference on Object-Oriented Programming, Systems, Languages, and Applications (OOPSLA 2024), October, 2024.
