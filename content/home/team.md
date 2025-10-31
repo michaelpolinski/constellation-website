@@ -24,7 +24,7 @@ weight: 20
 - [Peizhi Liu](https://www.linkedin.com/in/peizhiliu) (Northwestern) [NSF Graduate Fellow]
 - [David Krasowska](https://www.linkedin.com/in/davidkrasowska) (Northwestern) [DOE Computation Science Graduate Fellow]
 - [Tommy McMichen](https://mcmichen.cc/) (Northwestern)
-- [Kirill Nagaitsev](https://github.com/knagaitsev) (Northwestern) [DOE Computation Science Graduate Fellow]
+- [Kirill Nagaitsev](https://kirn.io) (Northwestern) [DOE Computation Science Graduate Fellow]
 - [Atmn Patel](https://www.linkedin.com/in/atmnpatel/) (Northwestern)
 - [Connor Selna](https://www.linkedin.com/in/connor-selna?original_referer=https%3A%2F%2Fwww.google.com%2F) (Northwestern)
 - [Yian Su](https://yiansu.com/) (Northwestern)
